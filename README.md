@@ -5,17 +5,6 @@
 <!--
 **ZainAssist/ZainAssist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Ɇиgιиєєя
-- 🌱 I’m currently learning ...уσυяѕєℓf
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...ℓιfєѕтуℓє
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # му ѕтαтυѕ
 ![Screenshot (7)](https://user-images.githubusercontent.com/93708296/200160770-5835502b-4eac-422d-bb00-b94b2d7308a4.png)
 
