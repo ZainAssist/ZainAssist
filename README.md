@@ -1,6 +1,6 @@
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2000&pause=1600&color=%231AF73D&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hello+My+self+Zain;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer+Social+Media%2C+that's+why+I+learned;a+lot+of+Mind+language;Human+Nature+Coding+and+many+more+things)](https://github.com/ZainAssist)
 
-<h3 align="center">𝖯𝗋𝗈𝖿𝗂𝗅𝖾 𝖵𝗂𝗌𝗂𝗍 𝖢𝗈𝗎𝗇𝗍 👀</h3>
+<h3 align="center">𝖯𝗋𝗈𝖿𝗂𝗅𝖾 𝖵𝗂𝗌𝗂𝗍 𝖢𝗈𝗎𝗇𝗍 👀
 <p align="center">
   <img src="https://profile-counter.glitch.me/{ZainAssist}/count.svg" alt="Profile Views">
 </p>
