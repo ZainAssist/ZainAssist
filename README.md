@@ -1,6 +1,6 @@
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=2000&pause=1600&color=%231AF73D&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Hello+My+self+Zain;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer+Social+Media%2C+that's+why+I+learned;a+lot+of+Mind+language;Human+Nature+Coding+and+many+more+things)](https://github.com/ZainAssist)
 
-
+</p>
 <hr />
 <!--
 **ZainAssist/ZainAssist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
